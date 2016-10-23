@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders67_Dictionary_koleksiyonu\Ders67_Dictionary_koleksiyonu\bin\Debug\Ders67_Dictionary_koleksiyonu.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders67_Dictionary_koleksiyonu\Ders67_Dictionary_koleksiyonu\bin\Debug\Ders67_Dictionary_koleksiyonu.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders67_Dictionary_koleksiyonu\Ders67_Dictionary_koleksiyonu\bin\Debug\Ders67_Dictionary_koleksiyonu.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders67_Dictionary_koleksiyonu\Ders67_Dictionary_koleksiyonu\obj\Debug\Ders67_Dictionary_koleksiyonu.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders67_Dictionary_koleksiyonu\Ders67_Dictionary_koleksiyonu\obj\Debug\Ders67_Dictionary_koleksiyonu.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders67_Dictionary_koleksiyonu\Ders67_Dictionary_koleksiyonu\obj\Debug\Ders67_Dictionary_koleksiyonu.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders67_Dictionary_koleksiyonu\Ders67_Dictionary_koleksiyonu\obj\Debug\Ders67_Dictionary_koleksiyonu.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders67_Dictionary_koleksiyonu\Ders67_Dictionary_koleksiyonu\obj\Debug\Ders67_Dictionary_koleksiyonu.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders67_Dictionary_koleksiyonu\Ders67_Dictionary_koleksiyonu\obj\Debug\Ders67_Dictionary_koleksiyonu.pdb

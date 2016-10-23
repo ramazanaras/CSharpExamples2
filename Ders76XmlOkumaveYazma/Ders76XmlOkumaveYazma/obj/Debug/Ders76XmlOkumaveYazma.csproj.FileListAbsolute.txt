@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders76XmlOkumaveYazma\Ders76XmlOkumaveYazma\bin\Debug\Ders76XmlOkumaveYazma.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders76XmlOkumaveYazma\Ders76XmlOkumaveYazma\obj\Debug\Ders76XmlOkumaveYazma.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders76XmlOkumaveYazma\Ders76XmlOkumaveYazma\obj\Debug\Ders76XmlOkumaveYazma.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders76XmlOkumaveYazma\Ders76XmlOkumaveYazma\obj\Debug\Ders76XmlOkumaveYazma.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders76XmlOkumaveYazma\Ders76XmlOkumaveYazma\obj\Debug\Ders76XmlOkumaveYazma.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders76XmlOkumaveYazma\Ders76XmlOkumaveYazma\bin\Debug\Ders76XmlOkumaveYazma.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders76XmlOkumaveYazma\Ders76XmlOkumaveYazma\bin\Debug\Ders76XmlOkumaveYazma.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders76XmlOkumaveYazma\Ders76XmlOkumaveYazma\obj\Debug\Ders76XmlOkumaveYazma.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders76XmlOkumaveYazma\Ders76XmlOkumaveYazma\obj\Debug\Ders76XmlOkumaveYazma.pdb

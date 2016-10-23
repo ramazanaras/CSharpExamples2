@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders41_Interfaces(Arayuzler)\Ders41_Interfaces(Arayuzler)\bin\Debug\Ders41_Interfaces(Arayuzler).exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders41_Interfaces(Arayuzler)\Ders41_Interfaces(Arayuzler)\bin\Debug\Ders41_Interfaces(Arayuzler).exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders41_Interfaces(Arayuzler)\Ders41_Interfaces(Arayuzler)\bin\Debug\Ders41_Interfaces(Arayuzler).pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders41_Interfaces(Arayuzler)\Ders41_Interfaces(Arayuzler)\obj\Debug\Ders41_Interfaces(Arayuzler).csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders41_Interfaces(Arayuzler)\Ders41_Interfaces(Arayuzler)\obj\Debug\Ders41_Interfaces(Arayuzler).exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders41_Interfaces(Arayuzler)\Ders41_Interfaces(Arayuzler)\obj\Debug\Ders41_Interfaces(Arayuzler).pdb

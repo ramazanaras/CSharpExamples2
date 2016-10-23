@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Kisiler">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ID" type="xs:string" minOccurs="0" />
+                <xs:element name="Ad" type="xs:string" minOccurs="0" />
+                <xs:element name="Soyad" type="xs:string" minOccurs="0" />
+                <xs:element name="TelefonNo" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Kisiler>
+    <ID>2899df60-c219-4457-a3b8-b98e5731b864</ID>
+    <Ad>ramazan</Ad>
+    <Soyad>aras</Soyad>
+    <TelefonNo>12313</TelefonNo>
+  </Kisiler>
+  <Kisiler>
+    <ID>229e1c5a-1fa6-476d-8e22-dafdcb016830</ID>
+    <Ad>ahmet</Ad>
+    <Soyad>asd</Soyad>
+    <TelefonNo>344</TelefonNo>
+  </Kisiler>
+</NewDataSet>

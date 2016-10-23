@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders58_Dosya_Klasörİslemleri\Ders58_Dosya_Klasörİslemleri\bin\Debug\Ders58_Dosya_Klasörİslemleri.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders58_Dosya_Klasörİslemleri\Ders58_Dosya_Klasörİslemleri\bin\Debug\Ders58_Dosya_Klasörİslemleri.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders58_Dosya_Klasörİslemleri\Ders58_Dosya_Klasörİslemleri\bin\Debug\Ders58_Dosya_Klasörİslemleri.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders58_Dosya_Klasörİslemleri\Ders58_Dosya_Klasörİslemleri\obj\Debug\Ders58_Dosya_Klasörİslemleri.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders58_Dosya_Klasörİslemleri\Ders58_Dosya_Klasörİslemleri\obj\Debug\Ders58_Dosya_Klasörİslemleri.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders58_Dosya_Klasörİslemleri\Ders58_Dosya_Klasörİslemleri\obj\Debug\Ders58_Dosya_Klasörİslemleri.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders58_Dosya_Klasörİslemleri\Ders58_Dosya_Klasörİslemleri\obj\Debug\Ders58_Dosya_Klasörİslemleri.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders58_Dosya_Klasörİslemleri\Ders58_Dosya_Klasörİslemleri\obj\Debug\Ders58_Dosya_Klasörİslemleri.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders58_Dosya_Klasörİslemleri\Ders58_Dosya_Klasörİslemleri\obj\Debug\Ders58_Dosya_Klasörİslemleri.pdb

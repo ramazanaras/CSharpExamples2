@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders38_SanalMetotlar\Ders38_SanalMetotlar\bin\Debug\Ders38_SanalMetotlar.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders38_SanalMetotlar\Ders38_SanalMetotlar\bin\Debug\Ders38_SanalMetotlar.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders38_SanalMetotlar\Ders38_SanalMetotlar\bin\Debug\Ders38_SanalMetotlar.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders38_SanalMetotlar\Ders38_SanalMetotlar\obj\Debug\Ders38_SanalMetotlar.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders38_SanalMetotlar\Ders38_SanalMetotlar\obj\Debug\Ders38_SanalMetotlar.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders38_SanalMetotlar\Ders38_SanalMetotlar\obj\Debug\Ders38_SanalMetotlar.pdb

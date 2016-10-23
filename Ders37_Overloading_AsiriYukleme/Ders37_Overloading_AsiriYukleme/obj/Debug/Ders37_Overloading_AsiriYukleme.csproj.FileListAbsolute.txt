@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders37_Overloading_AsiriYukleme\Ders37_Overloading_AsiriYukleme\bin\Debug\Ders37_Overloading_AsiriYukleme.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders37_Overloading_AsiriYukleme\Ders37_Overloading_AsiriYukleme\bin\Debug\Ders37_Overloading_AsiriYukleme.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders37_Overloading_AsiriYukleme\Ders37_Overloading_AsiriYukleme\bin\Debug\Ders37_Overloading_AsiriYukleme.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders37_Overloading_AsiriYukleme\Ders37_Overloading_AsiriYukleme\obj\Debug\Ders37_Overloading_AsiriYukleme.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders37_Overloading_AsiriYukleme\Ders37_Overloading_AsiriYukleme\obj\Debug\Ders37_Overloading_AsiriYukleme.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders37_Overloading_AsiriYukleme\Ders37_Overloading_AsiriYukleme\obj\Debug\Ders37_Overloading_AsiriYukleme.pdb

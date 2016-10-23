@@ -1,0 +1,10 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders79_ToDoList_Uygulamasi\Ders79_ToDoList_Uygulamasi\bin\Debug\Ders79_ToDoList_Uygulamasi.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders79_ToDoList_Uygulamasi\Ders79_ToDoList_Uygulamasi\bin\Debug\Ders79_ToDoList_Uygulamasi.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders79_ToDoList_Uygulamasi\Ders79_ToDoList_Uygulamasi\bin\Debug\Ders79_ToDoList_Uygulamasi.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders79_ToDoList_Uygulamasi\Ders79_ToDoList_Uygulamasi\obj\Debug\Ders79_ToDoList_Uygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders79_ToDoList_Uygulamasi\Ders79_ToDoList_Uygulamasi\obj\Debug\Ders79_ToDoList_Uygulamasi.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders79_ToDoList_Uygulamasi\Ders79_ToDoList_Uygulamasi\obj\Debug\Ders79_ToDoList_Uygulamasi.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders79_ToDoList_Uygulamasi\Ders79_ToDoList_Uygulamasi\obj\Debug\Ders79_ToDoList_Uygulamasi.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders79_ToDoList_Uygulamasi\Ders79_ToDoList_Uygulamasi\obj\Debug\Ders79_ToDoList_Uygulamasi.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders79_ToDoList_Uygulamasi\Ders79_ToDoList_Uygulamasi\obj\Debug\Ders79_ToDoList_Uygulamasi.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders79_ToDoList_Uygulamasi\Ders79_ToDoList_Uygulamasi\obj\Debug\Ders79_ToDoList_Uygulamasi.AboutBox1.resources

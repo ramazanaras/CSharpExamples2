@@ -1,0 +1,8 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders63_Temsilciler\Ders63_Temsilciler\bin\Debug\Ders63_Temsilciler.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders63_Temsilciler\Ders63_Temsilciler\bin\Debug\Ders63_Temsilciler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders63_Temsilciler\Ders63_Temsilciler\bin\Debug\Ders63_Temsilciler.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders63_Temsilciler\Ders63_Temsilciler\obj\Debug\Ders63_Temsilciler.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders63_Temsilciler\Ders63_Temsilciler\obj\Debug\Ders63_Temsilciler.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders63_Temsilciler\Ders63_Temsilciler\obj\Debug\Ders63_Temsilciler.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders63_Temsilciler\Ders63_Temsilciler\obj\Debug\Ders63_Temsilciler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders63_Temsilciler\Ders63_Temsilciler\obj\Debug\Ders63_Temsilciler.pdb

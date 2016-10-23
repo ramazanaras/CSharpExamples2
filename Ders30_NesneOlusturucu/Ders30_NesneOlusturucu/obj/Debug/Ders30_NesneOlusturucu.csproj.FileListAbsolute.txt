@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders30_NesneOlusturucu\Ders30_NesneOlusturucu\bin\Debug\Ders30_NesneOlusturucu.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders30_NesneOlusturucu\Ders30_NesneOlusturucu\bin\Debug\Ders30_NesneOlusturucu.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders30_NesneOlusturucu\Ders30_NesneOlusturucu\bin\Debug\Ders30_NesneOlusturucu.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders30_NesneOlusturucu\Ders30_NesneOlusturucu\obj\Debug\Ders30_NesneOlusturucu.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders30_NesneOlusturucu\Ders30_NesneOlusturucu\obj\Debug\Ders30_NesneOlusturucu.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders30_NesneOlusturucu\Ders30_NesneOlusturucu\obj\Debug\Ders30_NesneOlusturucu.pdb

@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders10_IfElseSolution\Ders10_IfElse\bin\Debug\Ders10_IfElse.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders10_IfElseSolution\Ders10_IfElse\bin\Debug\Ders10_IfElse.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders10_IfElseSolution\Ders10_IfElse\bin\Debug\Ders10_IfElse.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders10_IfElseSolution\Ders10_IfElse\obj\Debug\Ders10_IfElse.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders10_IfElseSolution\Ders10_IfElse\obj\Debug\Ders10_IfElse.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders10_IfElseSolution\Ders10_IfElse\obj\Debug\Ders10_IfElse.pdb

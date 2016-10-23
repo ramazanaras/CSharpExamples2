@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders60_KlasorIslemleri\Ders60_KlasorIslemleri\bin\Debug\Ders60_KlasorIslemleri.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders60_KlasorIslemleri\Ders60_KlasorIslemleri\bin\Debug\Ders60_KlasorIslemleri.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders60_KlasorIslemleri\Ders60_KlasorIslemleri\bin\Debug\Ders60_KlasorIslemleri.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders60_KlasorIslemleri\Ders60_KlasorIslemleri\obj\Debug\Ders60_KlasorIslemleri.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders60_KlasorIslemleri\Ders60_KlasorIslemleri\obj\Debug\Ders60_KlasorIslemleri.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders60_KlasorIslemleri\Ders60_KlasorIslemleri\obj\Debug\Ders60_KlasorIslemleri.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders60_KlasorIslemleri\Ders60_KlasorIslemleri\obj\Debug\Ders60_KlasorIslemleri.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders60_KlasorIslemleri\Ders60_KlasorIslemleri\obj\Debug\Ders60_KlasorIslemleri.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders60_KlasorIslemleri\Ders60_KlasorIslemleri\obj\Debug\Ders60_KlasorIslemleri.pdb

@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders44_winforms\Ders44_winforms\bin\Debug\Ders44_winforms.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders44_winforms\Ders44_winforms\bin\Debug\Ders44_winforms.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders44_winforms\Ders44_winforms\bin\Debug\Ders44_winforms.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders44_winforms\Ders44_winforms\obj\Debug\Ders44_winforms.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders44_winforms\Ders44_winforms\obj\Debug\Ders44_winforms.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders44_winforms\Ders44_winforms\obj\Debug\Ders44_winforms.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders44_winforms\Ders44_winforms\obj\Debug\Ders44_winforms.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders44_winforms\Ders44_winforms\obj\Debug\Ders44_winforms.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders44_winforms\Ders44_winforms\obj\Debug\Ders44_winforms.pdb

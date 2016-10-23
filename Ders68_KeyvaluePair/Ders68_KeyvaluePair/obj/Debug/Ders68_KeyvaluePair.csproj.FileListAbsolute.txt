@@ -1,0 +1,8 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders68_KeyvaluePair\Ders68_KeyvaluePair\bin\Debug\Ders68_KeyvaluePair.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders68_KeyvaluePair\Ders68_KeyvaluePair\bin\Debug\Ders68_KeyvaluePair.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders68_KeyvaluePair\Ders68_KeyvaluePair\bin\Debug\Ders68_KeyvaluePair.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders68_KeyvaluePair\Ders68_KeyvaluePair\obj\Debug\Ders68_KeyvaluePair.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders68_KeyvaluePair\Ders68_KeyvaluePair\obj\Debug\Ders68_KeyvaluePair.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders68_KeyvaluePair\Ders68_KeyvaluePair\obj\Debug\Ders68_KeyvaluePair.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders68_KeyvaluePair\Ders68_KeyvaluePair\obj\Debug\Ders68_KeyvaluePair.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders68_KeyvaluePair\Ders68_KeyvaluePair\obj\Debug\Ders68_KeyvaluePair.pdb

@@ -1,0 +1,3 @@
+  //Not:Nullable deðerler ile ilgili siteler
+                //https://kodzilla.wordpress.com/2012/04/28/c-ile-bos-deger-kontrolu-null-coalescing/
+                //http://www.buraksenyurt.com/post/C-2-0-ve-Nullable-Deger-Tipleri-bsenyurt-com-dan.aspx

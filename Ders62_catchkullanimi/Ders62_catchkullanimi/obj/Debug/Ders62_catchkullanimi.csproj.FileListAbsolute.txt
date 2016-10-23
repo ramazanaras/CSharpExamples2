@@ -1,0 +1,8 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders62_catchkullanimi\Ders62_catchkullanimi\bin\Debug\Ders62_catchkullanimi.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders62_catchkullanimi\Ders62_catchkullanimi\obj\Debug\Ders62_catchkullanimi.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders62_catchkullanimi\Ders62_catchkullanimi\obj\Debug\Ders62_catchkullanimi.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders62_catchkullanimi\Ders62_catchkullanimi\obj\Debug\Ders62_catchkullanimi.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders62_catchkullanimi\Ders62_catchkullanimi\bin\Debug\Ders62_catchkullanimi.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders62_catchkullanimi\Ders62_catchkullanimi\bin\Debug\Ders62_catchkullanimi.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders62_catchkullanimi\Ders62_catchkullanimi\obj\Debug\Ders62_catchkullanimi.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders62_catchkullanimi\Ders62_catchkullanimi\obj\Debug\Ders62_catchkullanimi.pdb

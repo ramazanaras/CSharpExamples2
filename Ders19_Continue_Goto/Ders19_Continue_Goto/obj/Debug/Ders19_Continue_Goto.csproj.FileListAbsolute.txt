@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders19_Continue_Goto\Ders19_Continue_Goto\bin\Debug\Ders19_Continue_Goto.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders19_Continue_Goto\Ders19_Continue_Goto\obj\Debug\Ders19_Continue_Goto.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders19_Continue_Goto\Ders19_Continue_Goto\bin\Debug\Ders19_Continue_Goto.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders19_Continue_Goto\Ders19_Continue_Goto\bin\Debug\Ders19_Continue_Goto.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders19_Continue_Goto\Ders19_Continue_Goto\obj\Debug\Ders19_Continue_Goto.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders19_Continue_Goto\Ders19_Continue_Goto\obj\Debug\Ders19_Continue_Goto.pdb

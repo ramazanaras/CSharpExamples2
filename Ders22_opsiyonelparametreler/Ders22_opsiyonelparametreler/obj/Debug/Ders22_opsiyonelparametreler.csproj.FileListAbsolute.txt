@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders22_opsiyonelparametreler\Ders22_opsiyonelparametreler\bin\Debug\Ders22_opsiyonelparametreler.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders22_opsiyonelparametreler\Ders22_opsiyonelparametreler\bin\Debug\Ders22_opsiyonelparametreler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders22_opsiyonelparametreler\Ders22_opsiyonelparametreler\bin\Debug\Ders22_opsiyonelparametreler.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders22_opsiyonelparametreler\Ders22_opsiyonelparametreler\obj\Debug\Ders22_opsiyonelparametreler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders22_opsiyonelparametreler\Ders22_opsiyonelparametreler\obj\Debug\Ders22_opsiyonelparametreler.pdb

@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\39_abstract_soyut_siniflar\39_abstract_soyut_siniflar\bin\Debug\39_abstract_soyut_siniflar.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\39_abstract_soyut_siniflar\39_abstract_soyut_siniflar\bin\Debug\39_abstract_soyut_siniflar.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\39_abstract_soyut_siniflar\39_abstract_soyut_siniflar\bin\Debug\39_abstract_soyut_siniflar.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\39_abstract_soyut_siniflar\39_abstract_soyut_siniflar\obj\Debug\39_abstract_soyut_siniflar.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\39_abstract_soyut_siniflar\39_abstract_soyut_siniflar\obj\Debug\39_abstract_soyut_siniflar.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\39_abstract_soyut_siniflar\39_abstract_soyut_siniflar\obj\Debug\39_abstract_soyut_siniflar.pdb

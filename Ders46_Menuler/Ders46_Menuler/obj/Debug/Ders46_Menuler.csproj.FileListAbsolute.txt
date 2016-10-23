@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders46_Menuler\Ders46_Menuler\bin\Debug\Ders46_Menuler.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders46_Menuler\Ders46_Menuler\bin\Debug\Ders46_Menuler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders46_Menuler\Ders46_Menuler\bin\Debug\Ders46_Menuler.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders46_Menuler\Ders46_Menuler\obj\Debug\Ders46_Menuler.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders46_Menuler\Ders46_Menuler\obj\Debug\Ders46_Menuler.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders46_Menuler\Ders46_Menuler\obj\Debug\Ders46_Menuler.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders46_Menuler\Ders46_Menuler\obj\Debug\Ders46_Menuler.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders46_Menuler\Ders46_Menuler\obj\Debug\Ders46_Menuler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders46_Menuler\Ders46_Menuler\obj\Debug\Ders46_Menuler.pdb

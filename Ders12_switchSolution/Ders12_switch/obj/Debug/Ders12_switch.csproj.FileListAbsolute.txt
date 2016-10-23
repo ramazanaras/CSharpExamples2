@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders12_switchSolution\Ders12_switch\bin\Debug\Ders12_switch.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders12_switchSolution\Ders12_switch\bin\Debug\Ders12_switch.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders12_switchSolution\Ders12_switch\bin\Debug\Ders12_switch.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders12_switchSolution\Ders12_switch\obj\Debug\Ders12_switch.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders12_switchSolution\Ders12_switch\obj\Debug\Ders12_switch.pdb

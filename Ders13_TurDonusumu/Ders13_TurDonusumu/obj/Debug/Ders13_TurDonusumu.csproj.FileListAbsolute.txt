@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders13_TurDonusumu\Ders13_TurDonusumu\bin\Debug\Ders13_TurDonusumu.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders13_TurDonusumu\Ders13_TurDonusumu\bin\Debug\Ders13_TurDonusumu.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders13_TurDonusumu\Ders13_TurDonusumu\bin\Debug\Ders13_TurDonusumu.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders13_TurDonusumu\Ders13_TurDonusumu\obj\Debug\Ders13_TurDonusumu.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders13_TurDonusumu\Ders13_TurDonusumu\obj\Debug\Ders13_TurDonusumu.pdb

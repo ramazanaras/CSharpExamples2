@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders23_StructParametreler\Ders23_StructParametreler\bin\Debug\Ders23_StructParametreler.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders23_StructParametreler\Ders23_StructParametreler\bin\Debug\Ders23_StructParametreler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders23_StructParametreler\Ders23_StructParametreler\bin\Debug\Ders23_StructParametreler.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders23_StructParametreler\Ders23_StructParametreler\obj\Debug\Ders23_StructParametreler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders23_StructParametreler\Ders23_StructParametreler\obj\Debug\Ders23_StructParametreler.pdb

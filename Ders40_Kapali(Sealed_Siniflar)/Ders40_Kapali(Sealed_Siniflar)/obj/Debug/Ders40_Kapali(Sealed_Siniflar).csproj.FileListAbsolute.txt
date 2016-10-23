@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders40_Kapali(Sealed_Siniflar)\Ders40_Kapali(Sealed_Siniflar)\bin\Debug\Ders40_Kapali(Sealed_Siniflar).exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders40_Kapali(Sealed_Siniflar)\Ders40_Kapali(Sealed_Siniflar)\bin\Debug\Ders40_Kapali(Sealed_Siniflar).exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders40_Kapali(Sealed_Siniflar)\Ders40_Kapali(Sealed_Siniflar)\bin\Debug\Ders40_Kapali(Sealed_Siniflar).pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders40_Kapali(Sealed_Siniflar)\Ders40_Kapali(Sealed_Siniflar)\obj\Debug\Ders40_Kapali(Sealed_Siniflar).exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders40_Kapali(Sealed_Siniflar)\Ders40_Kapali(Sealed_Siniflar)\obj\Debug\Ders40_Kapali(Sealed_Siniflar).pdb

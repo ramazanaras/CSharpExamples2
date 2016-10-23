@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

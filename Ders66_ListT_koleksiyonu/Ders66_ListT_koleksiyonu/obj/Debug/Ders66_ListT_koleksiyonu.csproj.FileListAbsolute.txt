@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders66_ListT_koleksiyonu\Ders66_ListT_koleksiyonu\bin\Debug\Ders66_ListT_koleksiyonu.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders66_ListT_koleksiyonu\Ders66_ListT_koleksiyonu\bin\Debug\Ders66_ListT_koleksiyonu.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders66_ListT_koleksiyonu\Ders66_ListT_koleksiyonu\bin\Debug\Ders66_ListT_koleksiyonu.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders66_ListT_koleksiyonu\Ders66_ListT_koleksiyonu\obj\Debug\Ders66_ListT_koleksiyonu.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders66_ListT_koleksiyonu\Ders66_ListT_koleksiyonu\obj\Debug\Ders66_ListT_koleksiyonu.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders66_ListT_koleksiyonu\Ders66_ListT_koleksiyonu\obj\Debug\Ders66_ListT_koleksiyonu.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders66_ListT_koleksiyonu\Ders66_ListT_koleksiyonu\obj\Debug\Ders66_ListT_koleksiyonu.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders66_ListT_koleksiyonu\Ders66_ListT_koleksiyonu\obj\Debug\Ders66_ListT_koleksiyonu.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders66_ListT_koleksiyonu\Ders66_ListT_koleksiyonu\obj\Debug\Ders66_ListT_koleksiyonu.pdb

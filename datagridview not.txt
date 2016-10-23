@@ -1,0 +1,13 @@
+ //currrentRow :seçili(þuanki satýr)
+            if (this.dataGridView1.CurrentRow!=null)//yani bir satýr seçilmiþsse
+            {
+                //DataRowView drv= this.dataGridView1.CurrentRow.DataBoundItem as DataRowView;
+                //DataRow dr = drv.Row;
+                //yukarýdaki uzun hali biz aþaðýda daha kýsa þekilde aþaðýda çevirdik.
+
+                //seçili satýrý DataRow tipinde aldýk.
+                DataRow dr = (this.dataGridView1.CurrentRow.DataBoundItem as  DataRowView).Row ;
+              //  MessageBox.Show(dr[0].ToString()+" "+dr[1].ToString()+" "+dr[2].ToString());//seçili satýrýn bilgilerini yazdýrdýk
+
+                frmDuzenle frm = new frmDuzenle();
+                frm.GuncellenecekKisi = dr;//frmDuzenle formundaki public olarak tanýmlanan ve DataRow tipindeki GuncellenecekKisi öðesine burdaki dr'yi atadýk.

@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders43_PartialSiniflar\Ders43_PartialSiniflar\bin\Debug\Ders43_PartialSiniflar.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders43_PartialSiniflar\Ders43_PartialSiniflar\bin\Debug\Ders43_PartialSiniflar.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders43_PartialSiniflar\Ders43_PartialSiniflar\bin\Debug\Ders43_PartialSiniflar.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders43_PartialSiniflar\Ders43_PartialSiniflar\obj\Debug\Ders43_PartialSiniflar.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders43_PartialSiniflar\Ders43_PartialSiniflar\obj\Debug\Ders43_PartialSiniflar.pdb

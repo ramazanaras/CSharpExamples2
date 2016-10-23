@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders17_Foreach\Ders17_Foreach\bin\Debug\Ders17_Foreach.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders17_Foreach\Ders17_Foreach\bin\Debug\Ders17_Foreach.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders17_Foreach\Ders17_Foreach\bin\Debug\Ders17_Foreach.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders17_Foreach\Ders17_Foreach\obj\Debug\Ders17_Foreach.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders17_Foreach\Ders17_Foreach\obj\Debug\Ders17_Foreach.pdb

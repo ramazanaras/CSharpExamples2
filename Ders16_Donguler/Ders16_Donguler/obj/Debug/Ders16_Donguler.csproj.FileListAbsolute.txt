@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders16_Donguler\Ders16_Donguler\bin\Debug\Ders16_Donguler.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders16_Donguler\Ders16_Donguler\bin\Debug\Ders16_Donguler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders16_Donguler\Ders16_Donguler\bin\Debug\Ders16_Donguler.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders16_Donguler\Ders16_Donguler\obj\Debug\Ders16_Donguler.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders16_Donguler\Ders16_Donguler\obj\Debug\Ders16_Donguler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders16_Donguler\Ders16_Donguler\obj\Debug\Ders16_Donguler.pdb

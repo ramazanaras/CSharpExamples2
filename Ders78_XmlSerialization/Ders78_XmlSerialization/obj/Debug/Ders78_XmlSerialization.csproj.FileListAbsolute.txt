@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders78_XmlSerialization\Ders78_XmlSerialization\bin\Debug\Ders78_XmlSerialization.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders78_XmlSerialization\Ders78_XmlSerialization\bin\Debug\Ders78_XmlSerialization.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders78_XmlSerialization\Ders78_XmlSerialization\bin\Debug\Ders78_XmlSerialization.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders78_XmlSerialization\Ders78_XmlSerialization\obj\Debug\Ders78_XmlSerialization.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders78_XmlSerialization\Ders78_XmlSerialization\obj\Debug\Ders78_XmlSerialization.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders78_XmlSerialization\Ders78_XmlSerialization\obj\Debug\Ders78_XmlSerialization.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders78_XmlSerialization\Ders78_XmlSerialization\obj\Debug\Ders78_XmlSerialization.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders78_XmlSerialization\Ders78_XmlSerialization\obj\Debug\Ders78_XmlSerialization.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders78_XmlSerialization\Ders78_XmlSerialization\obj\Debug\Ders78_XmlSerialization.pdb

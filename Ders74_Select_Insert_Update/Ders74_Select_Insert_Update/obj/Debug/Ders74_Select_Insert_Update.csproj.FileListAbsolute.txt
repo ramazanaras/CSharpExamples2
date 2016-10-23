@@ -1,0 +1,8 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders74_Select_Insert_Update\Ders74_Select_Insert_Update\bin\Debug\Ders74_Select_Insert_Update.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders74_Select_Insert_Update\Ders74_Select_Insert_Update\bin\Debug\Ders74_Select_Insert_Update.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders74_Select_Insert_Update\Ders74_Select_Insert_Update\bin\Debug\Ders74_Select_Insert_Update.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders74_Select_Insert_Update\Ders74_Select_Insert_Update\obj\Debug\Ders74_Select_Insert_Update.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders74_Select_Insert_Update\Ders74_Select_Insert_Update\obj\Debug\Ders74_Select_Insert_Update.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders74_Select_Insert_Update\Ders74_Select_Insert_Update\obj\Debug\Ders74_Select_Insert_Update.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders74_Select_Insert_Update\Ders74_Select_Insert_Update\obj\Debug\Ders74_Select_Insert_Update.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders74_Select_Insert_Update\Ders74_Select_Insert_Update\obj\Debug\Ders74_Select_Insert_Update.pdb

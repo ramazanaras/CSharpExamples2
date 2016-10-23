@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders82MySqlBrowser\Ders82MySqlBrowser\bin\Debug\Ders82MySqlBrowser.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders82MySqlBrowser\Ders82MySqlBrowser\bin\Debug\Ders82MySqlBrowser.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders82MySqlBrowser\Ders82MySqlBrowser\bin\Debug\Ders82MySqlBrowser.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders82MySqlBrowser\Ders82MySqlBrowser\obj\Debug\Ders82MySqlBrowser.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders82MySqlBrowser\Ders82MySqlBrowser\obj\Debug\Ders82MySqlBrowser.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders82MySqlBrowser\Ders82MySqlBrowser\obj\Debug\Ders82MySqlBrowser.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders82MySqlBrowser\Ders82MySqlBrowser\obj\Debug\Ders82MySqlBrowser.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders82MySqlBrowser\Ders82MySqlBrowser\obj\Debug\Ders82MySqlBrowser.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders82MySqlBrowser\Ders82MySqlBrowser\obj\Debug\Ders82MySqlBrowser.pdb

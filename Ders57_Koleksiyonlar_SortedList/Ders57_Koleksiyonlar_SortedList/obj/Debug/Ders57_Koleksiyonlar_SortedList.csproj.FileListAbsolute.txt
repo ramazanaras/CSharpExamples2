@@ -1,0 +1,8 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders57_Koleksiyonlar_SortedList\Ders57_Koleksiyonlar_SortedList\bin\Debug\Ders57_Koleksiyonlar_SortedList.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders57_Koleksiyonlar_SortedList\Ders57_Koleksiyonlar_SortedList\bin\Debug\Ders57_Koleksiyonlar_SortedList.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders57_Koleksiyonlar_SortedList\Ders57_Koleksiyonlar_SortedList\bin\Debug\Ders57_Koleksiyonlar_SortedList.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders57_Koleksiyonlar_SortedList\Ders57_Koleksiyonlar_SortedList\obj\Debug\Ders57_Koleksiyonlar_SortedList.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders57_Koleksiyonlar_SortedList\Ders57_Koleksiyonlar_SortedList\obj\Debug\Ders57_Koleksiyonlar_SortedList.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders57_Koleksiyonlar_SortedList\Ders57_Koleksiyonlar_SortedList\obj\Debug\Ders57_Koleksiyonlar_SortedList.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders57_Koleksiyonlar_SortedList\Ders57_Koleksiyonlar_SortedList\obj\Debug\Ders57_Koleksiyonlar_SortedList.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders57_Koleksiyonlar_SortedList\Ders57_Koleksiyonlar_SortedList\obj\Debug\Ders57_Koleksiyonlar_SortedList.pdb

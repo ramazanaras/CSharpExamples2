@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders54_ArraySinifivekopyalama-siralama\Ders54_ArraySinifivekopyalama-siralama\bin\Debug\Ders54_ArraySinifivekopyalama-siralama.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders54_ArraySinifivekopyalama-siralama\Ders54_ArraySinifivekopyalama-siralama\bin\Debug\Ders54_ArraySinifivekopyalama-siralama.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders54_ArraySinifivekopyalama-siralama\Ders54_ArraySinifivekopyalama-siralama\bin\Debug\Ders54_ArraySinifivekopyalama-siralama.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders54_ArraySinifivekopyalama-siralama\Ders54_ArraySinifivekopyalama-siralama\obj\Debug\Ders54_ArraySinifivekopyalama-siralama.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders54_ArraySinifivekopyalama-siralama\Ders54_ArraySinifivekopyalama-siralama\obj\Debug\Ders54_ArraySinifivekopyalama_siralama.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders54_ArraySinifivekopyalama-siralama\Ders54_ArraySinifivekopyalama-siralama\obj\Debug\Ders54_ArraySinifivekopyalama_siralama.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders54_ArraySinifivekopyalama-siralama\Ders54_ArraySinifivekopyalama-siralama\obj\Debug\Ders54_ArraySinifivekopyalama-siralama.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders54_ArraySinifivekopyalama-siralama\Ders54_ArraySinifivekopyalama-siralama\obj\Debug\Ders54_ArraySinifivekopyalama-siralama.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders54_ArraySinifivekopyalama-siralama\Ders54_ArraySinifivekopyalama-siralama\obj\Debug\Ders54_ArraySinifivekopyalama-siralama.pdb

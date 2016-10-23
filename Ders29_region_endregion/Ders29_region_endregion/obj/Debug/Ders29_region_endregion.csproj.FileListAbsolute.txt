@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders29_region_endregion\Ders29_region_endregion\bin\Debug\Ders29_region_endregion.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders29_region_endregion\Ders29_region_endregion\bin\Debug\Ders29_region_endregion.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders29_region_endregion\Ders29_region_endregion\bin\Debug\Ders29_region_endregion.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders29_region_endregion\Ders29_region_endregion\obj\Debug\Ders29_region_endregion.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders29_region_endregion\Ders29_region_endregion\obj\Debug\Ders29_region_endregion.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders29_region_endregion\Ders29_region_endregion\obj\Debug\Ders29_region_endregion.pdb

@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders21_MetotParametreler\Ders21_MetotParametreler\bin\Debug\Ders21_MetotParametreler.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders21_MetotParametreler\Ders21_MetotParametreler\bin\Debug\Ders21_MetotParametreler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders21_MetotParametreler\Ders21_MetotParametreler\bin\Debug\Ders21_MetotParametreler.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders21_MetotParametreler\Ders21_MetotParametreler\obj\Debug\Ders21_MetotParametreler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders21_MetotParametreler\Ders21_MetotParametreler\obj\Debug\Ders21_MetotParametreler.pdb

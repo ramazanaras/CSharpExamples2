@@ -1,0 +1,10 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders48_BaskaFormlarlaCalismak\Ders48_BaskaFormlarlaCalismak\bin\Debug\Ders48_BaskaFormlarlaCalismak.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders48_BaskaFormlarlaCalismak\Ders48_BaskaFormlarlaCalismak\bin\Debug\Ders48_BaskaFormlarlaCalismak.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders48_BaskaFormlarlaCalismak\Ders48_BaskaFormlarlaCalismak\bin\Debug\Ders48_BaskaFormlarlaCalismak.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders48_BaskaFormlarlaCalismak\Ders48_BaskaFormlarlaCalismak\obj\Debug\Ders48_BaskaFormlarlaCalismak.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders48_BaskaFormlarlaCalismak\Ders48_BaskaFormlarlaCalismak\obj\Debug\Ders48_BaskaFormlarlaCalismak.Form2.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders48_BaskaFormlarlaCalismak\Ders48_BaskaFormlarlaCalismak\obj\Debug\Ders48_BaskaFormlarlaCalismak.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders48_BaskaFormlarlaCalismak\Ders48_BaskaFormlarlaCalismak\obj\Debug\Ders48_BaskaFormlarlaCalismak.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders48_BaskaFormlarlaCalismak\Ders48_BaskaFormlarlaCalismak\obj\Debug\Ders48_BaskaFormlarlaCalismak.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders48_BaskaFormlarlaCalismak\Ders48_BaskaFormlarlaCalismak\obj\Debug\Ders48_BaskaFormlarlaCalismak.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders48_BaskaFormlarlaCalismak\Ders48_BaskaFormlarlaCalismak\obj\Debug\Ders48_BaskaFormlarlaCalismak.MDIParent1.resources

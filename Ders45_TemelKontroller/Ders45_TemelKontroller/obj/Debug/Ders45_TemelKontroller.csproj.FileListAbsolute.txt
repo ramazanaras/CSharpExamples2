@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders45_TemelKontroller\Ders45_TemelKontroller\bin\Debug\Ders45_TemelKontroller.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders45_TemelKontroller\Ders45_TemelKontroller\bin\Debug\Ders45_TemelKontroller.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders45_TemelKontroller\Ders45_TemelKontroller\bin\Debug\Ders45_TemelKontroller.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders45_TemelKontroller\Ders45_TemelKontroller\obj\Debug\Ders45_TemelKontroller.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders45_TemelKontroller\Ders45_TemelKontroller\obj\Debug\Ders45_TemelKontroller.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders45_TemelKontroller\Ders45_TemelKontroller\obj\Debug\Ders45_TemelKontroller.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders45_TemelKontroller\Ders45_TemelKontroller\obj\Debug\Ders45_TemelKontroller.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders45_TemelKontroller\Ders45_TemelKontroller\obj\Debug\Ders45_TemelKontroller.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders45_TemelKontroller\Ders45_TemelKontroller\obj\Debug\Ders45_TemelKontroller.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders55_Koleksiyonlar_ArrayList\Ders55_Koleksiyonlar_ArrayList\bin\Debug\Ders55_Koleksiyonlar_ArrayList.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders55_Koleksiyonlar_ArrayList\Ders55_Koleksiyonlar_ArrayList\bin\Debug\Ders55_Koleksiyonlar_ArrayList.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders55_Koleksiyonlar_ArrayList\Ders55_Koleksiyonlar_ArrayList\bin\Debug\Ders55_Koleksiyonlar_ArrayList.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders55_Koleksiyonlar_ArrayList\Ders55_Koleksiyonlar_ArrayList\obj\Debug\Ders55_Koleksiyonlar_ArrayList.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders55_Koleksiyonlar_ArrayList\Ders55_Koleksiyonlar_ArrayList\obj\Debug\Ders55_Koleksiyonlar_ArrayList.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders55_Koleksiyonlar_ArrayList\Ders55_Koleksiyonlar_ArrayList\obj\Debug\Ders55_Koleksiyonlar_ArrayList.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders55_Koleksiyonlar_ArrayList\Ders55_Koleksiyonlar_ArrayList\obj\Debug\Ders55_Koleksiyonlar_ArrayList.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders55_Koleksiyonlar_ArrayList\Ders55_Koleksiyonlar_ArrayList\obj\Debug\Ders55_Koleksiyonlar_ArrayList.pdb

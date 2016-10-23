@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\Entities\bin\Debug\Entities.dll
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\Entities\bin\Debug\Entities.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\Entities\obj\Debug\Entities.dll
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\Entities\obj\Debug\Entities.pdb

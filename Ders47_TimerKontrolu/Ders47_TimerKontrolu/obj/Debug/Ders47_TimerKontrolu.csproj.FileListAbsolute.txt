@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders47_TimerKontrolu\Ders47_TimerKontrolu\bin\Debug\Ders47_TimerKontrolu.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders47_TimerKontrolu\Ders47_TimerKontrolu\bin\Debug\Ders47_TimerKontrolu.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders47_TimerKontrolu\Ders47_TimerKontrolu\bin\Debug\Ders47_TimerKontrolu.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders47_TimerKontrolu\Ders47_TimerKontrolu\obj\Debug\Ders47_TimerKontrolu.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders47_TimerKontrolu\Ders47_TimerKontrolu\obj\Debug\Ders47_TimerKontrolu.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders47_TimerKontrolu\Ders47_TimerKontrolu\obj\Debug\Ders47_TimerKontrolu.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders47_TimerKontrolu\Ders47_TimerKontrolu\obj\Debug\Ders47_TimerKontrolu.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders47_TimerKontrolu\Ders47_TimerKontrolu\obj\Debug\Ders47_TimerKontrolu.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders47_TimerKontrolu\Ders47_TimerKontrolu\obj\Debug\Ders47_TimerKontrolu.pdb

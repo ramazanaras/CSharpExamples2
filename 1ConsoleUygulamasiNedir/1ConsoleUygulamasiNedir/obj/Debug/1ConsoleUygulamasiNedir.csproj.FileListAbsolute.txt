@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\1ConsoleUygulamasiNedir\1ConsoleUygulamasiNedir\bin\Debug\1ConsoleUygulamasiNedir.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\1ConsoleUygulamasiNedir\1ConsoleUygulamasiNedir\bin\Debug\1ConsoleUygulamasiNedir.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\1ConsoleUygulamasiNedir\1ConsoleUygulamasiNedir\bin\Debug\1ConsoleUygulamasiNedir.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\1ConsoleUygulamasiNedir\1ConsoleUygulamasiNedir\obj\Debug\1ConsoleUygulamasiNedir.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\1ConsoleUygulamasiNedir\1ConsoleUygulamasiNedir\obj\Debug\1ConsoleUygulamasiNedir.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\1ConsoleUygulamasiNedir\1ConsoleUygulamasiNedir\obj\Debug\1ConsoleUygulamasiNedir.pdb

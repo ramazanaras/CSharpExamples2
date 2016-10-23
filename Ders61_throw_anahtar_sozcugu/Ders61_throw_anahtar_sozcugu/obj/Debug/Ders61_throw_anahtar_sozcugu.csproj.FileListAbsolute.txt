@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders61_throw_anahtar_sozcugu\Ders61_throw_anahtar_sozcugu\bin\Debug\Ders61_throw_anahtar_sozcugu.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders61_throw_anahtar_sozcugu\Ders61_throw_anahtar_sozcugu\bin\Debug\Ders61_throw_anahtar_sozcugu.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders61_throw_anahtar_sozcugu\Ders61_throw_anahtar_sozcugu\bin\Debug\Ders61_throw_anahtar_sozcugu.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders61_throw_anahtar_sozcugu\Ders61_throw_anahtar_sozcugu\obj\Debug\Ders61_throw_anahtar_sozcugu.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders61_throw_anahtar_sozcugu\Ders61_throw_anahtar_sozcugu\obj\Debug\Ders61_throw_anahtar_sozcugu.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders61_throw_anahtar_sozcugu\Ders61_throw_anahtar_sozcugu\obj\Debug\Ders61_throw_anahtar_sozcugu.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders61_throw_anahtar_sozcugu\Ders61_throw_anahtar_sozcugu\obj\Debug\Ders61_throw_anahtar_sozcugu.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders61_throw_anahtar_sozcugu\Ders61_throw_anahtar_sozcugu\obj\Debug\Ders61_throw_anahtar_sozcugu.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders61_throw_anahtar_sozcugu\Ders61_throw_anahtar_sozcugu\obj\Debug\Ders61_throw_anahtar_sozcugu.pdb

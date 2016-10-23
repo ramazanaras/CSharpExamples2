@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders14_BoxingUnboxing\Ders14_BoxingUnboxing\bin\Debug\Ders14_BoxingUnboxing.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders14_BoxingUnboxing\Ders14_BoxingUnboxing\bin\Debug\Ders14_BoxingUnboxing.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders14_BoxingUnboxing\Ders14_BoxingUnboxing\bin\Debug\Ders14_BoxingUnboxing.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders14_BoxingUnboxing\Ders14_BoxingUnboxing\obj\Debug\Ders14_BoxingUnboxing.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders14_BoxingUnboxing\Ders14_BoxingUnboxing\obj\Debug\Ders14_BoxingUnboxing.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders14_BoxingUnboxing\Ders14_BoxingUnboxing\obj\Debug\Ders14_BoxingUnboxing.pdb

@@ -1,0 +1,11 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\BusinessLayer\bin\Debug\Common.dll
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\BusinessLayer\bin\Debug\Entities.dll
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\BusinessLayer\bin\Debug\Common.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\BusinessLayer\bin\Debug\Entities.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders87Masraf_Otomasyonu\BusinessLayer\obj\Debug\BusinessLayer.pdb

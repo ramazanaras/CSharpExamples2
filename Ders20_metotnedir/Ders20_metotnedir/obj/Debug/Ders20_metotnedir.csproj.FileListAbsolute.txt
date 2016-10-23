@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders20_metotnedir\Ders20_metotnedir\bin\Debug\Ders20_metotnedir.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders20_metotnedir\Ders20_metotnedir\bin\Debug\Ders20_metotnedir.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders20_metotnedir\Ders20_metotnedir\bin\Debug\Ders20_metotnedir.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders20_metotnedir\Ders20_metotnedir\obj\Debug\Ders20_metotnedir.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders20_metotnedir\Ders20_metotnedir\obj\Debug\Ders20_metotnedir.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders20_metotnedir\Ders20_metotnedir\obj\Debug\Ders20_metotnedir.pdb

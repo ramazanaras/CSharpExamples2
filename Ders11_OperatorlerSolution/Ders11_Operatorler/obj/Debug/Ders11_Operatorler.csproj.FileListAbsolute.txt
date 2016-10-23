@@ -1,0 +1,5 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders11_OperatorlerSolution\Ders11_Operatorler\bin\Debug\Ders11_Operatorler.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders11_OperatorlerSolution\Ders11_Operatorler\bin\Debug\Ders11_Operatorler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders11_OperatorlerSolution\Ders11_Operatorler\bin\Debug\Ders11_Operatorler.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders11_OperatorlerSolution\Ders11_Operatorler\obj\Debug\Ders11_Operatorler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders11_OperatorlerSolution\Ders11_Operatorler\obj\Debug\Ders11_Operatorler.pdb

@@ -1,0 +1,19 @@
+bir þirketi masraflarýný yapan program 
+
+1)Çalýþan -Birim Yöneticisi-Yonetici rolleri bulunacaktýr.
+2)Calisan'ýnýn girdiði masraflar birim yöneticileri tarafýndan onaylanmasý gerekiyor.
+3)Birim yöneticisinin girdiði masraflar yöneticisi tarafýndan onaylanmasý gerekiyor.
+4)Onaylanmak üzere gönderilen masraflar ,onaylanabilir,reddedilebilir yada hatalý ise düzeltilmek amaçlý geri gönderilebilir.
+5)Onaylanan masraflar muhasebeye ulaþmalýdýr
+6)Masraf onaylarý masrafý giren kiþinin baðlu olduðu þefi tarafýndan yapýlmalý 
+7)Çalýþan -->Birim yöneticisi,Birim yöneticisi-->Yönetici tarafýndan onaylanmalýdýr.
+8)Yöneticinin girdiði masraflar doðrudan muhasebeye ulaþmalýdýr.
+9)Muhasebe tarafýndan ödenen masraflar tekrar masraf yapan kiþinin ekranýna ödendi olarak düþmelidir. 
+10)Kullanýcý giriþi olmalý 
+11)Kullanýcý için farklý,sorumlu olan kiþi için(birim yöneticisi,yönetici) baþka ekran tasarýmý olmalý
+12)Her kullanýcý türü(calisan,birim yöneticisi,yönetici) kendi masraflarýný ve sorumlu olduðu kiþinin masraflarýný görebilmeli
+
+
+c#ta guid sql de uniqueidentifier 'a karþýlýk gelir yani benzersiz sayý
+
+

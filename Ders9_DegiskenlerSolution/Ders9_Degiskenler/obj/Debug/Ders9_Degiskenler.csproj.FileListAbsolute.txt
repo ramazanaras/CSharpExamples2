@@ -1,0 +1,6 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders9_DegiskenlerSolution\Ders9_Degiskenler\bin\Debug\Ders9_Degiskenler.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders9_DegiskenlerSolution\Ders9_Degiskenler\bin\Debug\Ders9_Degiskenler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders9_DegiskenlerSolution\Ders9_Degiskenler\bin\Debug\Ders9_Degiskenler.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders9_DegiskenlerSolution\Ders9_Degiskenler\obj\Debug\Ders9_Degiskenler.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders9_DegiskenlerSolution\Ders9_Degiskenler\obj\Debug\Ders9_Degiskenler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders9_DegiskenlerSolution\Ders9_Degiskenler\obj\Debug\Ders9_Degiskenler.pdb

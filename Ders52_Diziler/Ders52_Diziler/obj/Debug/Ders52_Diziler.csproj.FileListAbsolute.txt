@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders52_Diziler\Ders52_Diziler\bin\Debug\Ders52_Diziler.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders52_Diziler\Ders52_Diziler\bin\Debug\Ders52_Diziler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders52_Diziler\Ders52_Diziler\bin\Debug\Ders52_Diziler.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders52_Diziler\Ders52_Diziler\obj\Debug\Ders52_Diziler.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders52_Diziler\Ders52_Diziler\obj\Debug\Ders52_Diziler.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders52_Diziler\Ders52_Diziler\obj\Debug\Ders52_Diziler.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders52_Diziler\Ders52_Diziler\obj\Debug\Ders52_Diziler.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders52_Diziler\Ders52_Diziler\obj\Debug\Ders52_Diziler.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders52_Diziler\Ders52_Diziler\obj\Debug\Ders52_Diziler.pdb

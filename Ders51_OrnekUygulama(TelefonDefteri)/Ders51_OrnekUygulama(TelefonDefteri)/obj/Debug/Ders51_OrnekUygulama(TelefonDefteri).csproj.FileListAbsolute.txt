@@ -1,0 +1,12 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders51_OrnekUygulama(TelefonDefteri)\Ders51_OrnekUygulama(TelefonDefteri)\bin\Debug\Ders51_OrnekUygulama(TelefonDefteri).exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders51_OrnekUygulama(TelefonDefteri)\Ders51_OrnekUygulama(TelefonDefteri)\bin\Debug\Ders51_OrnekUygulama(TelefonDefteri).exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders51_OrnekUygulama(TelefonDefteri)\Ders51_OrnekUygulama(TelefonDefteri)\bin\Debug\Ders51_OrnekUygulama(TelefonDefteri).pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders51_OrnekUygulama(TelefonDefteri)\Ders51_OrnekUygulama(TelefonDefteri)\obj\Debug\Ders51_OrnekUygulama(TelefonDefteri).csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders51_OrnekUygulama(TelefonDefteri)\Ders51_OrnekUygulama(TelefonDefteri)\obj\Debug\Ders51_OrnekUygulama_TelefonDefteri_.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders51_OrnekUygulama(TelefonDefteri)\Ders51_OrnekUygulama(TelefonDefteri)\obj\Debug\Ders51_OrnekUygulama_TelefonDefteri_.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders51_OrnekUygulama(TelefonDefteri)\Ders51_OrnekUygulama(TelefonDefteri)\obj\Debug\Ders51_OrnekUygulama(TelefonDefteri).csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders51_OrnekUygulama(TelefonDefteri)\Ders51_OrnekUygulama(TelefonDefteri)\obj\Debug\Ders51_OrnekUygulama(TelefonDefteri).exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders51_OrnekUygulama(TelefonDefteri)\Ders51_OrnekUygulama(TelefonDefteri)\obj\Debug\Ders51_OrnekUygulama(TelefonDefteri).pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders51_OrnekUygulama(TelefonDefteri)\Ders51_OrnekUygulama(TelefonDefteri)\obj\Debug\Ders51_OrnekUygulama_TelefonDefteri_.frmYeniKayit.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders51_OrnekUygulama(TelefonDefteri)\Ders51_OrnekUygulama(TelefonDefteri)\obj\Debug\Ders51_OrnekUygulama_TelefonDefteri_.frmDuzenle.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders51_OrnekUygulama(TelefonDefteri)\Ders51_OrnekUygulama(TelefonDefteri)\obj\Debug\Ders51_OrnekUygulama_TelefonDefteri_.frmHakkinda.resources

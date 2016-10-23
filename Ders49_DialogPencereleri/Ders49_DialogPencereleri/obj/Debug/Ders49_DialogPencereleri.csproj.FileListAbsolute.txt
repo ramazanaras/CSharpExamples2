@@ -1,0 +1,9 @@
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders49_DialogPencereleri\Ders49_DialogPencereleri\bin\Debug\Ders49_DialogPencereleri.exe.config
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders49_DialogPencereleri\Ders49_DialogPencereleri\bin\Debug\Ders49_DialogPencereleri.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders49_DialogPencereleri\Ders49_DialogPencereleri\bin\Debug\Ders49_DialogPencereleri.pdb
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders49_DialogPencereleri\Ders49_DialogPencereleri\obj\Debug\Ders49_DialogPencereleri.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders49_DialogPencereleri\Ders49_DialogPencereleri\obj\Debug\Ders49_DialogPencereleri.Form1.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders49_DialogPencereleri\Ders49_DialogPencereleri\obj\Debug\Ders49_DialogPencereleri.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders49_DialogPencereleri\Ders49_DialogPencereleri\obj\Debug\Ders49_DialogPencereleri.csproj.GenerateResource.Cache
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders49_DialogPencereleri\Ders49_DialogPencereleri\obj\Debug\Ders49_DialogPencereleri.exe
+C:\Users\RAMAZAN\Desktop\murat başeren ornekler\Ders49_DialogPencereleri\Ders49_DialogPencereleri\obj\Debug\Ders49_DialogPencereleri.pdb
